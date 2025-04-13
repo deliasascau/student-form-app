@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Your_password123"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlvolume:/var/opt/mssql
+
+  backend:
+    build: ./backend/StudentFormApi
+    depends_on:
+      - sqlserver
+    environment:
+      - ConnectionStrings__StudentFormConnection=Server=sqlserver,1433;Database=StudentFormDb;User Id=sa;Password=Your_password123;
+    ports:
+      - "5000:80"
+
+  frontend:
+    build: ./frontend/student-form-app
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+  # Dacă dorești să adaugi Keycloak:
+  # keycloak:
+  #   image: quay.io/keycloak/keycloak:latest
+  #   environment:
+  #     KEYCLOAK_USER: admin
+  #     KEYCLOAK_PASSWORD: admin
+  #   ports:
+  #     - "8080:8080"
+  #   command:
+  #     - "-b 0.0.0.0"
+
+volumes:
+  sqlvolume:

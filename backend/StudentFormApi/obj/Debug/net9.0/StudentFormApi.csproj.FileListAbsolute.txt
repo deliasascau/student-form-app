@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net9.0\StudentFormApi.MvcApplicationPartsAssemblyInfo.cache
