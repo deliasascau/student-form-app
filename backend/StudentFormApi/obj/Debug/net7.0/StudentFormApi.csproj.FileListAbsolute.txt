@@ -72,3 +72,5 @@ C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0
 C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0\StudentFormApi.pdb
 C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0\StudentFormApi.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0\ref\StudentFormApi.dll
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\Native\libwkhtmltox.dll
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0\StudentFormApi.sourcelink.json

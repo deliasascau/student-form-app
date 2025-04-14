@@ -11,4 +11,10 @@
     <PackageReference Include="DinkToPdf" Version="1.0.8" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.0" />
   </ItemGroup>
+  <ItemGroup>
+  <None Update="Native\libwkhtmltox.dll">
+    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+  </None>
+</ItemGroup>
+
 </Project>
