@@ -1,0 +1,14 @@
+# Exclude folderele de build
+/bin/
+/obj/
+/publish/
+
+# Exclude fișierele de configurare IDE
+.vscode/
+.idea/
+
+# Node modules pentru frontend
+frontend/node_modules/
+
+# Fișiere temporare
+*.log

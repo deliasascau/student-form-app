@@ -74,3 +74,8 @@ C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0
 C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0\ref\StudentFormApi.dll
 C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\Native\libwkhtmltox.dll
 C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\obj\Debug\net7.0\StudentFormApi.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Lenovo\OneDrive\Desktop\project\backend\StudentFormApi\bin\Debug\net7.0\System.CodeDom.dll

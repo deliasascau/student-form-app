@@ -4,7 +4,7 @@ using StudentFormApi.Models;
 using System;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-// Adaugă folosirea bibliotecii pentru generarea PDF; de exemplu, DinkToPdf
+// Adaugă folosirea bibliotecii pentru generarea PDF-- DinkToPdf
 using DinkToPdf;
 using DinkToPdf.Contracts;
 
